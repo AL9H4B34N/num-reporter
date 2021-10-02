@@ -1,14 +1,14 @@
 # num-reporter
-#$ apt update
+# apt update
 
-#$ pkg upgrade
+# pkg upgrade
 
-#$ pkg install git
+# pkg install git
 
-#$ git clone https://github.com/AL9H4B34N/num-reporter
+# git clone https://github.com/AL9H4B34N/num-reporter
 
-#$ cd num-reporter
+# cd num-reporter
 
-#$ chmod +x *
+# chmod +x *
 
-#$ bash num-reporter.sh
+# bash num-reporter.sh
