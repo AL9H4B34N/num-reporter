@@ -9,6 +9,8 @@
 
 # cd num-reporter
 
+# ls
+
 # chmod +x *
 
 # bash alpha.sh
