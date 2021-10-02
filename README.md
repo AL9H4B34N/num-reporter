@@ -11,4 +11,4 @@
 
 # chmod +x *
 
-# bash num-reporter.sh
+# bash alpha.sh
