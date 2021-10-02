@@ -1,4 +1,4 @@
-# num-reporter
+# number-reporter
 # apt update
 
 # pkg upgrade
